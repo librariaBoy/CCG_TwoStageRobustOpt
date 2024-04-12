@@ -41,4 +41,5 @@ Results can be found in the `CCG` and `Microgrid` folders.
 ## References
 
 [1] Zeng, Bo, and Long Zhao. "Solving two-stage robust optimization problems using a column-and-constraint generation method." Operations Research Letters 41, no. 5 (2013): 457-461.
+
 [2] 刘一欣,郭力,王成山.微电网两阶段鲁棒优化经济调度方法[J].中国电机工程学报,2018,38(14):4013-4022+4307.DOI:10.13334/j.0258-8013.pcsee.170500.
