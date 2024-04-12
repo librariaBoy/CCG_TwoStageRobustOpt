@@ -1,4 +1,4 @@
-'''两阶段鲁棒优化CC&G算法-failed'''
+'''两阶段鲁棒优化CC&G算法'''
 import numpy as np
 import gurobipy as gp
 import matplotlib.pyplot as plt
