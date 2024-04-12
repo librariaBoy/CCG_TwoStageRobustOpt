@@ -36,11 +36,7 @@ conda install -c gurobi gurobi
 
 ## CCG results
 
-Here are the convergence results of two cases. Other results can be found in the `CCG` and `Microgrid` folders.
-
-![alt text](CCG/CCG_convergence.png)
-
-![alt text](Microgrid/convergence.png)
+Results can be found in the `CCG` and `Microgrid` folders.
 
 ## References
 
